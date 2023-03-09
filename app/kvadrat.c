@@ -3,7 +3,7 @@
 
 #include "kvadrat.h"
 
-//функция решения квадратного уравнения 2
+//функция решения квадратного уравнения 3
 int kvadrat(double a,double b, double c,double* res1,double* res2)
 {
     if(a == b && b == c && c == 0)
